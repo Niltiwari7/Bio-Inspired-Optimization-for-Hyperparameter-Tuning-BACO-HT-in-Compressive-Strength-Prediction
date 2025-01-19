@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Capctone
 Capctone all ml algo
 
@@ -180,8 +179,4 @@ Here's a table categorizing **ensemble** and **non-ensemble** machine learning a
 | zipp                   | 3.7.0     |
 ```
 
-You can copy and paste this into a Markdown file (e.g., `packages.md`) for sharing or documentation.
-=======
-# Capstone
-Capstone all ml algo
->>>>>>> 0904ba94b2dd308f8395cca970a57cbfc3b15f2d
+
