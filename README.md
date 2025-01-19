@@ -1,2 +1,2 @@
-# capctone
-Capctone all ml algo
+# Capstone
+Capstone all ml algo
